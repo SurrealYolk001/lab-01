@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Syed Faiyaz
+- **CCID:** 1779660
 
 ## References and Resources
 
